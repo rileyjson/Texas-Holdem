@@ -5,7 +5,7 @@ public class TexasHoldem {
 
     private int minBet = 0;
     private int pot = 3;
-    private int bettingRound = 1;
+    private int bettingRound = 1; //
 
     public static void main(String[] args) {
         int playerCount;
